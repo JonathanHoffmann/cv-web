@@ -1,0 +1,162 @@
+{
+    "Education": {
+        "Education1": {
+            "en": "Zentralabitur",
+            "de": "Zentralabitur",
+            "sv": "Zentralabitur",
+            "institution": "BSDGG, Bremerhaven, Germany",
+            "datefrom": "2009",
+            "dateto": "2012"
+        },
+        "Education2": {
+            "en": "Computer Science and Engineering (Embedded Systems)",
+            "de": "Informatik und Ingenieurwesen (Embedded Systems)",
+            "sv": "Datateknik och ingenjörsvetenskap (Inbyggda system)",
+            "institution": "Högskolan Kristianstad",
+            "datefrom": "Sep 2015",
+            "dateto": "Dec 2017"
+        },
+        "Education3": {
+            "en": "Software development",
+            "de": "Software Development",
+            "sv": "Datasystemutveckling",
+            "institution": "Högskolan Kristianstad",
+            "datefrom": "Jan 2019",
+            "dateto": "2021"
+        }
+    },
+    "Job": {
+        "Job1": {
+            "en": "Jobeducation IT-Management Assistant",
+            "de": "Ausbildung zum Informationskaufmann",
+            "sv": "Lärling IT-Management Assistent",
+            "datefrom": "Aug 2012",
+            "dateto": "Jan 2015",
+            "employer": "Sparkasse Bremerhaven, Weser-Elbe Sparkasse"
+        },
+        "Job2": {
+            "en": "IT-Management Assistant",
+            "de": "Informationskaufmann",
+            "sv": "IT-Management Assistent",
+            "datefrom": "Jan 2015",
+            "dateto": "Jul 2015",
+            "employer": "Weser-Elbe Sparkasse"
+        },
+        "Job3": {
+            "en": "IT-Management Assistant",
+            "de": "Informationskaufmann",
+            "sv": "IT-Management Assistent",
+            "datefrom": "Jun 2016",
+            "dateto": "Aug 2016",
+            "employer": "Weser-Elbe Sparkasse"
+        },
+        "Job4": {
+            "en": "Student Counselor",
+            "de": "Studentensprecher",
+            "sv": "Studentombud",
+            "datefrom": "Jan 2018",
+            "dateto": "Dec 2018",
+            "employer": "Kristianstad Studentkår"
+        },
+        "Job5": {
+            "en": "Technician (Freelance)",
+            "de": "Techniker (Freiberuflich)",
+            "sv": "Tekniker (Frilans)",
+            "datefrom": "Nov 2019",
+            "dateto": "Dec 2021",
+            "employer": "Hemfixare"
+        },
+        "Job6": {
+            "en": "Software Developer",
+            "de": "Entwickler",
+            "sv": "Utvecklare",
+            "datefrom": "Jan 2022",
+            "dateto": "Oct 2024",
+            "employer": "EC Konsult"
+        },
+        "Job7": {
+            "en": "Software Developer Consultant",
+            "de": "Entwickler Consultant",
+            "sv": "Utvecklare Konsult",
+            "datefrom": "Jan 2022",
+            "dateto": "Apr 2022",
+            "employer": "AAK"
+        },
+        "Job8": {
+            "en": "Software Developer Consultant",
+            "de": "Entwickler Consultant",
+            "sv": "Utvecklare Konsult",
+            "datefrom": "Apr 2022",
+            "dateto": "Sep 2022",
+            "employer": "NCC"
+        },
+        "Job9": {
+            "en": "Developer Consultant",
+            "de": "Entwickler Consultant",
+            "sv": "Utvecklare Konsult",
+            "datefrom": "Sep 2022",
+            "dateto": "Oct 2024",
+            "employer": "Axis Communications"
+        },
+        "Job10": {
+            "en": "Experienced Software Engineer",
+            "de": "Erfahrener Entwickler",
+            "sv": "Erfaren Mjukvaru ingenjör",
+            "datefrom": "Nov 2024",
+            "dateto": "Now",
+            "employer": "Axis Communications"
+        }
+    },
+    "VolunteerWork": {
+        "Volunteer1": {
+            "en": "Youth Leader",
+            "de": "Jugendleiter",
+            "sv": "Ungdomsledare",
+            "organization": "Evangeliska Kyrkan Wesermünde",
+            "datefrom": "2010",
+            "dateto": "2015"
+        },
+        "Volunteer2": {
+            "en": "Board Member, Project Leader, President of the social committee",
+            "de": "Vorstandsmitglied, Projektleiter, President des sozialen Ausschusses",
+            "sv": "Styrelseledamot, projektledare, ordförande social utskott",
+            "organization": "Kristianstad Studentkår",
+            "datefrom": "2015",
+            "dateto": "2018"
+        }
+    },
+    "Languages": {
+        "German": {
+            "de_name": "Deutsch",
+            "de_proficiency": "Muttersprache",
+            "en_name": "German",
+            "en_proficiency": "Native",
+            "se_name": "Tyska",
+            "se_proficiency": "Modersmål"
+        },
+        "English": {
+            "de_name": "Englisch",
+            "de_proficiency": "Fließend in Wort und Schrift",
+            "en_name": "English",
+            "en_proficiency": "Fluent in both spoken and written",
+            "se_name": "Engelska",
+            "se_proficiency": "Flytande i tal och skrift"
+        },
+        "Swedish": {
+            "de_name": "Schwedisch",
+            "de_proficiency": "Fließend in Wort und Schrift",
+            "en_name": "Swedish",
+            "en_proficiency": "Fluent in both spoken and written",
+            "se_name": "Svenska",
+            "se_proficiency": "Flytande i tal och skrift"
+        },
+        "French": {
+            "de_name": "Französisch",
+            "de_proficiency": "Gymnasialniveau, einfache Gespräche und Texte verstehen",
+            "en_name": "French",
+            "en_proficiency": "High school level, can understand simple conversations and texts",
+            "se_name": "Franska",
+            "se_proficiency": "Gymnasienivå, förstår enklare samtal och texter"
+        }
+    }
+}
