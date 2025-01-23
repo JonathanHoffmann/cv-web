@@ -6,7 +6,8 @@
             "sv": "Zentralabitur",
             "institution": "BSDGG, Bremerhaven, Germany",
             "datefrom": "2009",
-            "dateto": "2012"
+            "dateto": "2012",
+            "image": "img/bsdgg.png"
         },
         "Education2": {
             "en": "Computer Science and Engineering (Embedded Systems)",
@@ -14,7 +15,8 @@
             "sv": "Datateknik och ingenjörsvetenskap (Inbyggda system)",
             "institution": "Högskolan Kristianstad",
             "datefrom": "Sep 2015",
-            "dateto": "Dec 2017"
+            "dateto": "Dec 2017",
+            "image": "img/hkr.svg"
         },
         "Education3": {
             "en": "Software development",
@@ -22,7 +24,8 @@
             "sv": "Datasystemutveckling",
             "institution": "Högskolan Kristianstad",
             "datefrom": "Jan 2019",
-            "dateto": "2021"
+            "dateto": "2021",
+            "image": "img/hkr.svg"
         }
     },
     "Job": {
@@ -32,7 +35,8 @@
             "sv": "Lärling IT-Management Assistent",
             "datefrom": "Aug 2012",
             "dateto": "Jan 2015",
-            "employer": "Sparkasse Bremerhaven, Weser-Elbe Sparkasse"
+            "employer": "Sparkasse Bremerhaven, Weser-Elbe Sparkasse",
+            "image": "img/wespa.jpg"
         },
         "Job2": {
             "en": "IT-Management Assistant",
@@ -40,7 +44,8 @@
             "sv": "IT-Management Assistent",
             "datefrom": "Jan 2015",
             "dateto": "Jul 2015",
-            "employer": "Weser-Elbe Sparkasse"
+            "employer": "Weser-Elbe Sparkasse",
+            "image": "img/wespa.jpg"
         },
         "Job3": {
             "en": "IT-Management Assistant",
@@ -48,7 +53,8 @@
             "sv": "IT-Management Assistent",
             "datefrom": "Jun 2016",
             "dateto": "Aug 2016",
-            "employer": "Weser-Elbe Sparkasse"
+            "employer": "Weser-Elbe Sparkasse",
+            "image": "img/wespa.jpg"
         },
         "Job4": {
             "en": "Student Counselor",
@@ -56,7 +62,8 @@
             "sv": "Studentombud",
             "datefrom": "Jan 2018",
             "dateto": "Dec 2018",
-            "employer": "Kristianstad Studentkår"
+            "employer": "Kristianstad Studentkår",
+            "image": "img/studentkar.jpg"
         },
         "Job5": {
             "en": "Technician (Freelance)",
@@ -64,7 +71,8 @@
             "sv": "Tekniker (Frilans)",
             "datefrom": "Nov 2019",
             "dateto": "Dec 2021",
-            "employer": "Hemfixare"
+            "employer": "Hemfixare",
+            "image": "img/hemfixare.jpg"
         },
         "Job6": {
             "en": "Software Developer",
@@ -72,7 +80,8 @@
             "sv": "Utvecklare",
             "datefrom": "Jan 2022",
             "dateto": "Oct 2024",
-            "employer": "EC Konsult"
+            "employer": "EC Konsult",
+            "image": "img/eck.png"
         },
         "Job7": {
             "en": "Software Developer Consultant",
@@ -80,7 +89,8 @@
             "sv": "Utvecklare Konsult",
             "datefrom": "Jan 2022",
             "dateto": "Apr 2022",
-            "employer": "AAK"
+            "employer": "AAK",
+            "image": "img/aak.jpg"
         },
         "Job8": {
             "en": "Software Developer Consultant",
@@ -88,7 +98,8 @@
             "sv": "Utvecklare Konsult",
             "datefrom": "Apr 2022",
             "dateto": "Sep 2022",
-            "employer": "NCC"
+            "employer": "NCC",
+            "image": "img/ncc.png"
         },
         "Job9": {
             "en": "Developer Consultant",
@@ -96,7 +107,8 @@
             "sv": "Utvecklare Konsult",
             "datefrom": "Sep 2022",
             "dateto": "Oct 2024",
-            "employer": "Axis Communications"
+            "employer": "Axis Communications",
+            "image": "img/axis.svg"
         },
         "Job10": {
             "en": "Experienced Software Engineer",
@@ -104,7 +116,8 @@
             "sv": "Erfaren Mjukvaru ingenjör",
             "datefrom": "Nov 2024",
             "dateto": "Now",
-            "employer": "Axis Communications"
+            "employer": "Axis Communications",
+            "image": "img/axis.svg"
         }
     },
     "VolunteerWork": {
@@ -114,7 +127,8 @@
             "sv": "Ungdomsledare",
             "organization": "Evangeliska Kyrkan Wesermünde",
             "datefrom": "2010",
-            "dateto": "2015"
+            "dateto": "2015",
+            "image": "img/kirche.png"
         },
         "Volunteer2": {
             "en": "Board Member, Project Leader, President of the social committee",
@@ -122,7 +136,8 @@
             "sv": "Styrelseledamot, projektledare, ordförande social utskott",
             "organization": "Kristianstad Studentkår",
             "datefrom": "2015",
-            "dateto": "2018"
+            "dateto": "2018",
+            "image": "img/studentkar.png"
         }
     },
     "Languages": {
@@ -132,7 +147,8 @@
             "en_name": "German",
             "en_proficiency": "Native",
             "se_name": "Tyska",
-            "se_proficiency": "Modersmål"
+            "se_proficiency": "Modersmål",
+            "image": "img/de.jpg"
         },
         "English": {
             "de_name": "Englisch",
@@ -140,7 +156,8 @@
             "en_name": "English",
             "en_proficiency": "Fluent in both spoken and written",
             "se_name": "Engelska",
-            "se_proficiency": "Flytande i tal och skrift"
+            "se_proficiency": "Flytande i tal och skrift",
+            "image": "img/en.png"
         },
         "Swedish": {
             "de_name": "Schwedisch",
@@ -148,7 +165,8 @@
             "en_name": "Swedish",
             "en_proficiency": "Fluent in both spoken and written",
             "se_name": "Svenska",
-            "se_proficiency": "Flytande i tal och skrift"
+            "se_proficiency": "Flytande i tal och skrift",
+            "image": "img/se.jpg"
         },
         "French": {
             "de_name": "Französisch",
@@ -156,7 +174,8 @@
             "en_name": "French",
             "en_proficiency": "High school level, can understand simple conversations and texts",
             "se_name": "Franska",
-            "se_proficiency": "Gymnasienivå, förstår enklare samtal och texter"
+            "se_proficiency": "Gymnasienivå, förstår enklare samtal och texter",
+            "image": "img/fr.png"
         }
     }
 }
