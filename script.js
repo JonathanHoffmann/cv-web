@@ -25,21 +25,21 @@ function changeLanguage(language) {
     if (data) renderData(data);
 }
 
-// Render the data for the current language
 function renderData(data) {
-    renderContactSection('contact', data.Contact);
-    renderSection('education', data.Education);
-    renderSection('jobs', data.Job);
-    renderSection('volunteer', data.VolunteerWork);
+    renderContactSection('Contact', data.Contact);
+    renderSection('Education', data.Education);
+    renderSection('Job Experience', data.Job);
+    renderSection('Volunteer Work', data.VolunteerWork);
     renderLanguages(data.Languages);
-    renderSimpleSection('programmingLanguages', data.ProgrammingLanguages);
-    renderSimpleSection('programmingTools', data.ProgrammingTools);
-    renderSimpleSection('itSupport', data.ITSupport);
-    renderOtherSection('other', data.Other);
+    renderSimpleSection('Programming Languages', data.ProgrammingLanguages);
+    renderSimpleSection('Programming Tools', data.ProgrammingTools);
+    renderSimpleSection('IT Support', data.ITSupport);
+    renderOtherSection('Other', data.Other);
 }
 
 function renderSection(sectionId, items) {
     const section = document.getElementById(sectionId);
+    section.innerHTML = `<h2>${sectionId}</h2>`;
     Object.values(items).forEach(item => {
         section.innerHTML += `
         <div class="entry">
@@ -54,8 +54,10 @@ function renderSection(sectionId, items) {
     });
 }
 
+// Render a generic section
 function renderSimpleSection(sectionId, items) {
     const section = document.getElementById(sectionId);
+    section.innerHTML = `<h2>${sectionId}</h2>`;
     Object.entries(items).forEach(([name, item]) => {
         section.innerHTML += `
         <div class="entry">
@@ -70,6 +72,7 @@ function renderSimpleSection(sectionId, items) {
 
 function renderContactSection(sectionId, items) {
     const section = document.getElementById(sectionId);
+    section.innerHTML = `<h2>${sectionId}</h2>`;
     Object.values(items).forEach(item => {
         section.innerHTML += `
         <div class="entry">
@@ -90,7 +93,8 @@ function renderContactSection(sectionId, items) {
 }
 
 function renderLanguages(languages) {
-    const section = document.getElementById('languages');
+    const section = document.getElementById('Languages');
+    section.innerHTML = '<h2>Languages</h2>';
     Object.values(languages).forEach(lang => {
         section.innerHTML += `
         <div class="entry">
@@ -105,6 +109,7 @@ function renderLanguages(languages) {
 }
 function renderOtherSection(sectionId, items) {
     const section = document.getElementById(sectionId);
+    section.innerHTML = `<h2>${sectionId}</h2>`;
     Object.values(items).forEach(item => {
         section.innerHTML += `
         <div class="entry">
