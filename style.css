@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background-color: #0073e6;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+    display: flex;
+    text-align: center;
+    width: 100%;
+}
+
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    margin-bottom: 4rem;
+}
+
+section img {
+    width: 100px;
+    height: auto;
+    border-radius: 5px;
+}
+
+.entry {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.entry img {
+    margin-right: 1rem;
+}
+
+.entry div {
+    max-width: 700px;
+}
+
+h1,
+h2 {
+    color: #005bb5;
+}
+
+
+.item img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.jonathanimg {
+    width: 150px;
+}
+
+.language-buttons {
+    margin-left: auto;
+    margin-right: 2rem;
+    width: fit-content;
+}
+
+.language-buttons button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    margin: 0 5px;
+    padding: 0;
+    margin: 0.2rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #005bb5;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.language-buttons img {
+    width: 30px;
+    height: 20px;
+    object-fit: cover;
+    border: 2px solid transparent;
+    border-radius: 3px;
+}
+
+.language-buttons button.active img {
+    border-color: #ffffff;
+    /* Highlight color for selected language */
+    box-shadow: 0 0 5px #ffffff;
+}
+
+.language-buttons button:hover {
+    background-color: #004494;
+}
+
+.language-buttons a {
+    text-decoration: none; /* No underline */
+    color: inherit; /* Inherit the color from the parent element */
+}

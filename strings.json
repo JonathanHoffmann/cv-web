@@ -1,4 +1,16 @@
 {
+    "Contact": {
+        "C1": {
+            "name": "Jonathan Frithjof Hoffmann",
+            "address1": "Vånga Kyrkväg 10",
+            "address2": "291 98 Villands Vånga",
+            "address3": "Sweden",
+            "mail": "jonathan.hoffmann@gmx.net",
+            "phone": "+46 73 894 64 90",
+            "linkedin": "https://www.linkedin.com/in/jonathan-hoffmann-0665ba19a/",
+            "image": "img/jonathan.jpg"
+        }
+    },
     "Education": {
         "Education1": {
             "en": "Zentralabitur",
@@ -43,29 +55,20 @@
             "de": "Informationskaufmann",
             "sv": "IT-Management Assistent",
             "datefrom": "Jan 2015",
-            "dateto": "Jul 2015",
+            "dateto": "Jul 2015, Jun 2016 - Aug 2016",
             "employer": "Weser-Elbe Sparkasse",
             "image": "img/wespa.jpg"
         },
         "Job3": {
-            "en": "IT-Management Assistant",
-            "de": "Informationskaufmann",
-            "sv": "IT-Management Assistent",
-            "datefrom": "Jun 2016",
-            "dateto": "Aug 2016",
-            "employer": "Weser-Elbe Sparkasse",
-            "image": "img/wespa.jpg"
-        },
-        "Job4": {
             "en": "Student Counselor",
             "de": "Studentensprecher",
             "sv": "Studentombud",
             "datefrom": "Jan 2018",
             "dateto": "Dec 2018",
             "employer": "Kristianstad Studentkår",
-            "image": "img/studentkar.jpg"
+            "image": "img/studentkar.png"
         },
-        "Job5": {
+        "Job4": {
             "en": "Technician (Freelance)",
             "de": "Techniker (Freiberuflich)",
             "sv": "Tekniker (Frilans)",
@@ -74,7 +77,7 @@
             "employer": "Hemfixare",
             "image": "img/hemfixare.jpg"
         },
-        "Job6": {
+        "Job5": {
             "en": "Software Developer",
             "de": "Entwickler",
             "sv": "Utvecklare",
@@ -83,7 +86,7 @@
             "employer": "EC Konsult",
             "image": "img/eck.png"
         },
-        "Job7": {
+        "Job6": {
             "en": "Software Developer Consultant",
             "de": "Entwickler Consultant",
             "sv": "Utvecklare Konsult",
@@ -92,7 +95,7 @@
             "employer": "AAK",
             "image": "img/aak.jpg"
         },
-        "Job8": {
+        "Job7": {
             "en": "Software Developer Consultant",
             "de": "Entwickler Consultant",
             "sv": "Utvecklare Konsult",
@@ -101,7 +104,7 @@
             "employer": "NCC",
             "image": "img/ncc.png"
         },
-        "Job9": {
+        "Job8": {
             "en": "Developer Consultant",
             "de": "Entwickler Consultant",
             "sv": "Utvecklare Konsult",
@@ -110,7 +113,7 @@
             "employer": "Axis Communications",
             "image": "img/axis.svg"
         },
-        "Job10": {
+        "Job9": {
             "en": "Experienced Software Engineer",
             "de": "Erfahrener Entwickler",
             "sv": "Erfaren Mjukvaru ingenjör",
@@ -166,7 +169,7 @@
             "en_proficiency": "Fluent in both spoken and written",
             "se_name": "Svenska",
             "se_proficiency": "Flytande i tal och skrift",
-            "image": "img/se.jpg"
+            "image": "img/sv.jpg"
         },
         "French": {
             "de_name": "Französisch",
@@ -176,6 +179,128 @@
             "se_name": "Franska",
             "se_proficiency": "Gymnasienivå, förstår enklare samtal och texter",
             "image": "img/fr.png"
+        }
+    },
+    "ProgrammingLanguages": {
+        "C": {
+            "image": "img/c.png"
+        },
+        "C++": {
+            "image": "img/c++.png"
+        },
+        "C#": {
+            "image": "img/csharp.png"
+        },
+        "Python": {
+            "image": "img/python.png"
+        },
+        "Shell": {
+            "image": "img/bash.png"
+        },
+        "Java": {
+            "image": "img/java.png"
+        },
+        "Arduino": {
+            "image": "img/arduino.png"
+        },
+        "Kotlin": {
+            "image": "img/kotlin.png"
+        },
+        "HTML": {
+            "image": "img/html.webp"
+        },
+        "JavaScript": {
+            "image": "img/javascript.png"
+        },
+        "PHP": {
+            "image": "img/php.png"
+        },
+        "CSS": {
+            "image": "img/css.png"
+        },
+        "SQL": {
+            "image": "img/sql.png"
+        }
+    },
+    "ProgrammingTools": {
+        "Agile Development": {
+            "image": "img/agile.png"
+        },
+        "Visual Studio Code": {
+            "image": "img/vscode.png"
+        },
+        "IntelliJ": {
+            "image": "img/intellij.jpg"
+        },
+        "Android Studio": {
+            "image": "img/python.png"
+        },
+        "Linux (Debian, Ubuntu Server, Ubuntu Desktop, BunsenLab, Manjaro)": {
+            "image": "img/linux.avif"
+        },
+        "Git": {
+            "image": "img/git.jpg"
+        },
+        "Gerrit": {
+            "image": "img/gerrit.png"
+        },
+        "GitHub": {
+            "image": "img/github.png"
+        },
+        "Jira": {
+            "image": "img/jira.png"
+        }
+    },
+    "ITSupport": {
+        "Windows Server 2003, 2008, 2012R2": {
+            "image": "img/windowsserver.png"
+        },
+        "Lotus Mail": {
+            "image": "img/lotus.webp"
+        },
+        "Microsoft Office Suite": {
+            "image": "img/microsoftoffice.png"
+        },
+        "Open Office Suite": {
+            "image": "img/openoffice.png"
+        },
+        "Adobe Photshop, Illustrator, InDesign": {
+            "image": "img/adobe.png"
+        },
+        "Ticketing System": {
+            "image": "img/jira.png"
+        },
+        "Active Directory": {
+            "image": "img/ad.webp"
+        },
+        "Computer Hardware": {
+            "image": "img/fujitsu.jpg"
+        },
+        "Printers": {
+            "image": "img/lexmark.jpg"
+        },
+        "Cisco Network": {
+            "image": "img/cisco.png"
+        }
+    },
+    "Other": {
+        "1": {
+            "en": "German B drivers license, experienced with trailers, access to car",
+            "sv": "Tysk B körkort, van att köra med släp, tillgång till bil",
+            "de": "Führerschein Klasse B, Erfahrung mit Anhängern, eigenes Auto",
+            "image": "img/car.png"
+        },
+        "2": {
+            "en": "German small sailboat license",
+            "sv": "Tysk små segelbåt körkort",
+            "de": "Sportküsten-Schifferschein",
+            "image": "img/sail.png"
+        },
+        "3": {
+            "en": "First aid courses 2011, 2017, 2018, 2019",
+            "sv": "HLR utbildningar 2011, 2017, 2018, 2019",
+            "de": "Erste Hilfe Kurse 2011, 2017, 2018, 2019",
+            "image": "img/hlr.png"
         }
     }
 }
