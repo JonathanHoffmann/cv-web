@@ -149,8 +149,8 @@
             "de_proficiency": "Muttersprache",
             "en_name": "German",
             "en_proficiency": "Native",
-            "se_name": "Tyska",
-            "se_proficiency": "Modersmål",
+            "sv_name": "Tyska",
+            "sv_proficiency": "Modersmål",
             "image": "img/de.jpg"
         },
         "English": {
@@ -158,8 +158,8 @@
             "de_proficiency": "Fließend in Wort und Schrift",
             "en_name": "English",
             "en_proficiency": "Fluent in both spoken and written",
-            "se_name": "Engelska",
-            "se_proficiency": "Flytande i tal och skrift",
+            "sv_name": "Engelska",
+            "sv_proficiency": "Flytande i tal och skrift",
             "image": "img/en.png"
         },
         "Swedish": {
@@ -167,8 +167,8 @@
             "de_proficiency": "Fließend in Wort und Schrift",
             "en_name": "Swedish",
             "en_proficiency": "Fluent in both spoken and written",
-            "se_name": "Svenska",
-            "se_proficiency": "Flytande i tal och skrift",
+            "sv_name": "Svenska",
+            "sv_proficiency": "Flytande i tal och skrift",
             "image": "img/sv.jpg"
         },
         "French": {
@@ -176,8 +176,8 @@
             "de_proficiency": "Gymnasialniveau, einfache Gespräche und Texte verstehen",
             "en_name": "French",
             "en_proficiency": "High school level, can understand simple conversations and texts",
-            "se_name": "Franska",
-            "se_proficiency": "Gymnasienivå, förstår enklare samtal och texter",
+            "sv_name": "Franska",
+            "sv_proficiency": "Gymnasienivå, förstår enklare samtal och texter",
             "image": "img/fr.png"
         }
     },
