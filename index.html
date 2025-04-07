@@ -9,6 +9,9 @@
 </head>
 
 <body>
+    <body>
+        <div id="dark-overlay" class="dark-overlay"></div>
+
     <header>
         <div class="language-buttons" style="margin-left: 0;">
             <button class="only-pc"><a href="#Contact">Contact</a></button>
@@ -23,6 +26,10 @@
         </div>
 
         <div class="language-buttons">
+            <div class="only-pc" style="float:left;overflow:auto;display:flex;flex-direction:column;padding-right:30px">
+                <input class="only-pc" type="range" id="darkmode" name="darkmode" min="0.8" max="0.987" value="0" step="0.011" />
+                <label class="only-pc" for="darkmode" style="text-align: left;">Darkmode</label>
+            </div>
             <button class="active" onclick="changeLanguage('en')">
                 <img src="img/en.png" alt="English" title="English">
             </button>
@@ -66,5 +73,6 @@
     </main>
 
     <script src="script.js"></script>
+    <script src="darkmode.js"></script>
 </body>
 </html>
