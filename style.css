@@ -105,6 +105,14 @@ h2 {
 }
 
 .language-buttons a {
-    text-decoration: none; /* No underline */
-    color: inherit; /* Inherit the color from the parent element */
+    text-decoration: none;
+    /* No underline */
+    color: inherit;
+    /* Inherit the color from the parent element */
+}
+
+@media (max-width: 768px) {
+    .only-pc {
+        display: none;
+    }
 }
